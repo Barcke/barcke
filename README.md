@@ -1,4 +1,5 @@
 ## Hi there 👋
+![barcke-github-cards](https://github.com/user-attachments/assets/a28b6a86-6c0a-438d-bdf5-9a2a393b6d4e)
 
 <!--
 **Barcke/barcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
